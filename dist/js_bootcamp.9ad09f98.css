@@ -1,0 +1,19 @@
+h1 {
+    font-size: 100px;
+    text-align: center;
+    color:darkviolet;
+}
+body {
+    align-items: center;
+    background-color: darkred;
+    background-image: url('https://jungle.world/sites/default/files/styles/article_wide/public/2018-07/flat%2C1000x1000%2C075%2Cf.jpg?itok=Pg6BA86e');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#buttonID {
+    font-size: 80px;
+    text-align: center;
+    color:blue;
+}
+
+/*# sourceMappingURL=/js_bootcamp.9ad09f98.css.map */
